@@ -1,0 +1,5 @@
+ 首先必须：执行数据库脚本，文件已经提供，运行即可。
+使用的 是mysql5.5版本
+----运行showGoods.jsp从数据库加载商品列表，goods.jsp显示所有商品。allCart.jsp显示购物车中的商品。
+
+测试环境：Eclipse自带浏览器。和Firefox
